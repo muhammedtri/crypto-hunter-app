@@ -100,6 +100,7 @@ const CoinPage = () => {
   useEffect(() => {
     fetchChart()
     fetchDataCoin()
+    // eslint-disable-next-line
   }, [timeChart, currency])
   const handleClick = (e) => {
     setActiveButton(e.target.id)
