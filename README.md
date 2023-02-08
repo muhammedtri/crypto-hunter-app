@@ -2,6 +2,6 @@
 
 Live Preview :
 
-![CRYPTO APP]("https://github.com/muhammedtri/crypto-hunter-app/blob/master/public/Screenshot%202023-02-08%20at%2017.25.24.png?raw=true")
+![Alt APP]("https://github.com/muhammedtri/crypto-hunter-app/blob/master/public/Screenshot%202023-02-08%20at%2017.25.24.png?raw=true")
 
-![CRYPTO APP]("https://github.com/muhammedtri/crypto-hunter-app/blob/master/public/Screenshot%202023-02-08%20at%2017.25.42.png?raw=true")
+![Alt APP]("https://github.com/muhammedtri/crypto-hunter-app/blob/master/public/Screenshot%202023-02-08%20at%2017.25.42.png?raw=true")
