@@ -4,7 +4,7 @@ import Modal from "@mui/material/Modal"
 import Tab from "@mui/material/Tab"
 import { TabContext, TabList, TabPanel } from "@mui/lab"
 import { useState } from "react"
-import { color, ThemeProvider } from "@mui/system"
+import { ThemeProvider } from "@mui/system"
 import { TextField, createTheme, styled } from "@mui/material"
 
 const style = {
